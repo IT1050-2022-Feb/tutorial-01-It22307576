@@ -11,6 +11,7 @@ int main() {
    
    avg = mark1 + mark2 / 2;
    printf("Average marks = %d",avg);
+ 
   return 0;
 }
 
